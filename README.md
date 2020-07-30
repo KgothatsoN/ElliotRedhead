@@ -1,6 +1,6 @@
 ### Elliot Redhead
 
-[![Elliot's github stats](https://github-readme-stats.vercel.app/api?username=Elliotredhead)](https://github.com/anuraghazra/github-readme-stats)
+[![Elliot's github stats](https://github-readme-stats.vercel.app/api?username=Elliotredhead&show_icons=true&hide=stars,contribs,prs)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **ElliotRedhead/ElliotRedhead** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
