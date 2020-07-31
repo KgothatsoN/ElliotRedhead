@@ -2,18 +2,17 @@
 
 [![Elliot's github stats](https://github-readme-stats.vercel.app/api?username=Elliotredhead&show_icons=true&hide=stars,contribs,prs)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--
-**ElliotRedhead/ElliotRedhead** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Main Language Proficiencies
 
-Here are some ideas to get you started:
+![HTML](https://img.shields.io/static/v1?label=HTML&message=5&color=E34F26&style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/static/v1?label=CSS&message=3&color=1572B6&style=for-the-badge&logo=css3)
+![Javascript](https://img.shields.io/static/v1?label=JavaScript&message=ES8&style=for-the-badge&color=F7DF1E&logo=JavaScript)
+![Python](https://img.shields.io/static/v1?label=Python&style=for-the-badge&message=3&color=3776AB&logo=PYTHON)
+![PHP](https://img.shields.io/static/v1?label=PHP&style=for-the-badge&message=7&color=8892BF&logo=PHP)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
+#### Framework Proficiencies
+
+![React](https://img.shields.io/static/v1?label=React&style=for-the-badge&message=16.3&color=61dafb&logo=react)
+![Flask](https://img.shields.io/static/v1?label=Flask&style=for-the-badge&message=1.1.1&color=181717&logo=flask)
+![Django](https://img.shields.io/static/v1?label=Django&style=for-the-badge&message=3.0.0&color=092E20&logo=django)
