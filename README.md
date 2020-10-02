@@ -1,6 +1,6 @@
 ### Elliot Redhead
 
-[![Elliot's github stats](https://github-readme-stats.vercel.app/api?username=Elliotredhead&show_icons=true&hide=stars,contribs,prs)](https://github.com/anuraghazra/github-readme-stats)
+[![Elliot's github stats](https://github-readme-stats.vercel.app/api?username=Elliotredhead&show_icons=true&hide=stars,contribs,prs,issues)](https://github.com/anuraghazra/github-readme-stats)
 
 #### Main Language Proficiencies
 
